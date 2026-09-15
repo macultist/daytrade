@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://app.macultist.com/daytrade/</loc><lastmod>2026-09-14</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://app.macultist.com/daytrade/about.html</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://app.macultist.com/daytrade/privacy.html</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://app.macultist.com/daytrade/guide/index.html</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://app.macultist.com/daytrade/guide/rsi.html</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://app.macultist.com/daytrade/guide/moving-average.html</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://app.macultist.com/daytrade/guide/volume.html</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://app.macultist.com/daytrade/guide/scorecard.html</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://app.macultist.com/daytrade/guide/faq.html</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://app.macultist.com/daytrade/</loc><lastmod>2026-09-15</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://app.macultist.com/daytrade/about.html</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://app.macultist.com/daytrade/privacy.html</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://app.macultist.com/daytrade/guide/index.html</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://app.macultist.com/daytrade/guide/rsi.html</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://app.macultist.com/daytrade/guide/moving-average.html</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://app.macultist.com/daytrade/guide/volume.html</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://app.macultist.com/daytrade/guide/scorecard.html</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://app.macultist.com/daytrade/guide/faq.html</loc><lastmod>2026-09-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
   <url><loc>https://app.macultist.com/daytrade/archive/20260910.html</loc><lastmod>2026-09-10</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
   <url><loc>https://app.macultist.com/daytrade/archive/20260911.html</loc><lastmod>2026-09-11</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
-  <url><loc>https://app.macultist.com/daytrade/archive/20260914.html</loc><lastmod>2026-09-14</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
+  <url><loc>https://app.macultist.com/daytrade/archive/20260915.html</loc><lastmod>2026-09-15</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
 </urlset>
