@@ -26,6 +26,7 @@ body{margin:0;background:var(--bg);color:var(--ink);font-family:"Pretendard Vari
 body{transition:background .3s,color .3s}section,.kpi,#pop{transition:background .3s,border-color .3s}
 .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:8px;overflow:hidden}
 .kpi{background:var(--surface);padding:12px 14px}
+@media(min-width:700px){.kpis{grid-template-columns:repeat(4,1fr)}.kpi{padding:14px 18px}.kpi .v{font-size:32px}}
 .kpi .l{font-size:13px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase}
 .kpi .v{font-family:inherit;font-variant-numeric:tabular-nums;font-size:26px;font-weight:500;margin-top:2px;font-variant-numeric:tabular-nums}
 section{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:18px 20px}
