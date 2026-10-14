@@ -147,6 +147,7 @@ html{scroll-behavior:smooth}
 .sc-tile .l{font-size:13px;color:var(--muted);letter-spacing:.02em}.sc-tile .v{font-family:inherit;font-variant-numeric:tabular-nums;font-size:30px;font-weight:500;margin:4px 0 2px;font-variant-numeric:tabular-nums}.sc-tile .v.acc{color:var(--accent)}.sc-tile .s{font-size:13px;color:var(--muted)}
 .sc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(360px,100%),1fr));gap:12px}
 .sc-card{background:var(--soft);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:flex;flex-direction:column;gap:8px;transition:transform .2s,box-shadow .2s}
+.sc-card[hidden]{display:none}
 .sc-card:hover{transform:translateY(-2px);box-shadow:0 8px 20px var(--shadow)}
 .sc-date{font-family:inherit;font-variant-numeric:tabular-nums;font-size:14px;color:var(--ink);font-weight:500;border-bottom:1px solid var(--line);padding-bottom:6px}.sc-date small{color:var(--muted);font-weight:400}
 .sc-row{display:grid;grid-template-columns:auto 1fr;grid-template-areas:"tag hit" "bar bar" "avg five";gap:4px 10px;align-items:center;font-size:14px}
