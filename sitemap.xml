@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://macultist.kr/daytrade/</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://macultist.kr/daytrade/about.html</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://macultist.kr/daytrade/privacy.html</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://macultist.kr/daytrade/guide/index.html</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://macultist.kr/daytrade/guide/rsi.html</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://macultist.kr/daytrade/guide/moving-average.html</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://macultist.kr/daytrade/guide/volume.html</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://macultist.kr/daytrade/guide/scorecard.html</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://macultist.kr/daytrade/guide/faq.html</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://macultist.kr/daytrade/</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macultist.kr/daytrade/about.html</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://macultist.kr/daytrade/privacy.html</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://macultist.kr/daytrade/guide/index.html</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://macultist.kr/daytrade/guide/rsi.html</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://macultist.kr/daytrade/guide/moving-average.html</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://macultist.kr/daytrade/guide/volume.html</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://macultist.kr/daytrade/guide/scorecard.html</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://macultist.kr/daytrade/guide/faq.html</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
   <url><loc>https://macultist.kr/daytrade/archive/20260910.html</loc><lastmod>2026-09-10</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
   <url><loc>https://macultist.kr/daytrade/archive/20260911.html</loc><lastmod>2026-09-11</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
   <url><loc>https://macultist.kr/daytrade/archive/20260914.html</loc><lastmod>2026-09-14</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
@@ -30,4 +30,5 @@
   <url><loc>https://macultist.kr/daytrade/archive/20261012.html</loc><lastmod>2026-10-12</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
   <url><loc>https://macultist.kr/daytrade/archive/20261013.html</loc><lastmod>2026-10-13</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
   <url><loc>https://macultist.kr/daytrade/archive/20261014.html</loc><lastmod>2026-10-14</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
+  <url><loc>https://macultist.kr/daytrade/archive/20261015.html</loc><lastmod>2026-10-15</lastmod><changefreq>never</changefreq><priority>0.4</priority></url>
 </urlset>
